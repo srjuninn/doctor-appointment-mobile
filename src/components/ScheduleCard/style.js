@@ -12,11 +12,18 @@ export const Container = styled.View`
 `
 export const ScheduleTop = styled.View`
     display: flex;
+    flex-direction: row;
     justify-content: space-between;
-    align-items: center;
-    align-self: stretch;
+    align-itens: center;
+    width: 100%;
+`
+export const ScheduleTopContent = styled.View`
+    display: flex;
+    gap: 12px;
 `
 export const ScheduleTopAvatar = styled.Image`
+    width: 50px;
+    height: 70px;
     
 `
 export const ScheduleTopTitle = styled.View`
