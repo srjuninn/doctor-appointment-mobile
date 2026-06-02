@@ -2,8 +2,9 @@ import styled from "styled-components/native";
 
 export const Container = styled.View`
     display: flex;
-    padding: 64px 24px;
+    flex-direction: column;
     flex: 1;
+    padding: 64px 24px;
     background-color: #f9f9f9;
 
 `
