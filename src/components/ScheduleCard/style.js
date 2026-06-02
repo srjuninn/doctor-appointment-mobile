@@ -16,19 +16,19 @@ export const ScheduleTop = styled.View`
     align-items: center;
     align-self: stretch;
 `
-export const ScheduleTopAvatar = styled.View`
+export const ScheduleTopAvatar = styled.Image`
     
 `
 export const ScheduleTopTitle = styled.View`
     
 `
-export const ScheduleToplabel = styled.View`
+export const ScheduleToplabel = styled.Text`
     
 `
-export const ScheduleTopDescription = styled.View`
+export const ScheduleTopDescription = styled.Text`
     
 `
-export const ScheduleTopIcon = styled.View`
+export const ScheduleTopIcon = styled.Image`
     
 `
 export const ScheduleBottom = styled.View`
@@ -37,9 +37,9 @@ export const ScheduleBottom = styled.View`
 export const ScheduleBottomContainer = styled.View`
     
 `
-export const ScheduleBottomIcon = styled.View`
+export const ScheduleBottomIcon = styled.Image`
     
 `
-export const ScheduleBottomTitle = styled.View`
+export const ScheduleBottomTitle = styled.Text`
     
 `
